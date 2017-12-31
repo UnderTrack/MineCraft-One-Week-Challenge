@@ -11,8 +11,8 @@ TextureAtlas::TextureAtlas(const std::string& textureFileName)
     loadFromImage(i);
 
     
-    m_imageSize             = 256;
-    m_individualTextureSize = 16;
+    m_imageSize             = 1024;
+    m_individualTextureSize = 64;
 }
 
 std::array<GLfloat, 8> TextureAtlas::getTexture(const sf::Vector2i& coords)
