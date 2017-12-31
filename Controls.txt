@@ -1,19 +1,29 @@
-WASD							- Movement
+WASD 		- Movement
 
-Space							- Go up
-Shift							- Go down
 
-Hold-CTRL					- Speed up
+Space 		- Go up
 
-Mouse							- Move around to look
+Shift 		- Go down
 
-Up/ Down arrow		- Select item in inventory 
 
-Left Click				- Break block
-Right Click				- Place block
+Hold CTRL 	- Speed up
 
-F3								- Hide/ Show the FPS/ Inventory/ Crosshair
 
-L									- Lock/ Unlock looking
+Mouse 		- Move around to look
 
-Escape						- Exit Game
+
+Up/Down arrow 	- Select item in inventory 
+
+
+Left Click 	- Break block
+
+Right Click 	- Place block
+
+
+F3 		- Hide/ Show the FPS/ Inventory/ Crosshair
+
+
+L 		- Lock/ Unlock looking
+
+
+Escape 		- Exit Game
