@@ -9,7 +9,7 @@ Shift 		- Go down
 Hold CTRL 	- Speed up
 
 
-F 	       - Fly
+F 	        - Fly
 
 
 Mouse 		- Move around to look
